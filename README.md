@@ -1,2 +1,2 @@
 # VendingMachine
-Java OOP vending machine with GUI in czech language
+Java OOP "Vending machine" with GUI in Czech language
